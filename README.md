@@ -1,4 +1,4 @@
-# Landing Page: ebook Guia de tratamentos para artrose, guia para pacientes (Proregen)
+# Landing Page: ebook revisado (artrose), guia para pacientes (Proregen)
 
 Página estática de captura de interesse e entrega do guia gratuito Guia de tratamentos para artrose.
 
